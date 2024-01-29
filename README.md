@@ -1,4 +1,4 @@
-# Image-gallery
+# Image-Search
 
 This is a simple React Gallery app that allows you to search and view images using the Unsplash API.
 
@@ -23,11 +23,11 @@ Follow these steps to run the app on your local machine:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/ShivaSwaiN9/Image-gallery.git
+   git clone https://github.com/ShivaSwaiN9/Image-Search.git
 
 2. Navigate to the project directory: 
    ```bash  
-   cd Image-gallery-main
+   cd Image-Search-main
 3. Install the dependencies:
    ```bash
    npm install
