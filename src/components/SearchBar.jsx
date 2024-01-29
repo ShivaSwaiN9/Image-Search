@@ -16,7 +16,7 @@ const SearchBar = ({ onSearch, onClear }) => {
 
   const handleClear = () => {
     setQuery("");
-    onClear(); // Call the onClear function to load local images
+    onClear(); 
   };
 
   return (

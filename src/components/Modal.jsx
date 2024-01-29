@@ -10,7 +10,7 @@ const Modal = ({ imageUrl, onClose }) => {
           <img
             src={imageUrl}
             alt="Image"
-            className="w-full max-h-96" // Adjust the max height as needed
+            className="w-full max-h-96" 
           />
         </div>
         <button
